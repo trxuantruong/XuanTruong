@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(243, 226, 71);
+}
+h1{
+    text-align: center;
+    background-color: rgb(223, 124, 11);
+    color: red;
+}
+h3{
+    color: blue;
+}
+ul li a{
+    color: rgb(238, 13, 219);
+
+}
+ul{
+    color: rgb(9, 212, 19);
+}
+
+p{
+    color: rgb(13, 122, 224);
+}
+.benphai{
+    margin-left: 300px;
+}
+span{
+    color: red;
+}
+h4{
+    text-align: center;
+    color: rgb(17, 214, 221);
+}
